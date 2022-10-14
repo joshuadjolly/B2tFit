@@ -2,7 +2,7 @@
 
 Submitted by: **Joshua Jolly**
 
-**B2tFit** is a health metrics app that allows users to track the number of calories from foods they have eaten.
+**B2tFit** is a health metrics app that allows users to track the number of calories from foods they have eaten along with the highest, lowest and average number of calories from the food. 
 
 Time spent: **11** hours spent in total
 
