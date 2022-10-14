@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">B2tFit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard">dashboard</string>
+    <string name="food">food</string>
+</resources>
